@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NAM_PHUONG\\Redis\\RedisCache\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38D4C2DB-C403-4B4F-A227-9F954BB40585}|RedisCache\\RedisCache.csproj|d:\\nam_phuong\\redis\\rediscache\\rediscache\\repository\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D4C2DB-C403-4B4F-A227-9F954BB40585}|RedisCache\\RedisCache.csproj|solutionrelative:rediscache\\repository\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D4C2DB-C403-4B4F-A227-9F954BB40585}|RedisCache\\RedisCache.csproj|d:\\nam_phuong\\redis\\rediscache\\rediscache\\compose.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{38D4C2DB-C403-4B4F-A227-9F954BB40585}|RedisCache\\RedisCache.csproj|solutionrelative:rediscache\\compose.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D4C2DB-C403-4B4F-A227-9F954BB40585}|RedisCache\\RedisCache.csproj|d:\\nam_phuong\\redis\\rediscache\\rediscache\\models\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D4C2DB-C403-4B4F-A227-9F954BB40585}|RedisCache\\RedisCache.csproj|solutionrelative:rediscache\\models\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D4C2DB-C403-4B4F-A227-9F954BB40585}|RedisCache\\RedisCache.csproj|d:\\nam_phuong\\redis\\rediscache\\rediscache\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38D4C2DB-C403-4B4F-A227-9F954BB40585}|RedisCache\\RedisCache.csproj|solutionrelative:rediscache\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D4C2DB-C403-4B4F-A227-9F954BB40585}|RedisCache\\RedisCache.csproj|d:\\nam_phuong\\redis\\rediscache\\rediscache\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38D4C2DB-C403-4B4F-A227-9F954BB40585}|RedisCache\\RedisCache.csproj|solutionrelative:rediscache\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "D:\\NAM_PHUONG\\Redis\\RedisCache\\RedisCache\\Repository\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "RedisCache\\Repository\\ICustomerRepository.cs",
+              "ToolTip": "D:\\NAM_PHUONG\\Redis\\RedisCache\\RedisCache\\Repository\\ICustomerRepository.cs",
+              "RelativeToolTip": "RedisCache\\Repository\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T04:51:52.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "compose.yaml",
+              "DocumentMoniker": "D:\\NAM_PHUONG\\Redis\\RedisCache\\RedisCache\\compose.yaml",
+              "RelativeDocumentMoniker": "RedisCache\\compose.yaml",
+              "ToolTip": "D:\\NAM_PHUONG\\Redis\\RedisCache\\RedisCache\\compose.yaml",
+              "RelativeToolTip": "RedisCache\\compose.yaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-02-24T04:50:20.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EcommerceDbContext.cs",
+              "DocumentMoniker": "D:\\NAM_PHUONG\\Redis\\RedisCache\\RedisCache\\Models\\EcommerceDbContext.cs",
+              "RelativeDocumentMoniker": "RedisCache\\Models\\EcommerceDbContext.cs",
+              "ToolTip": "D:\\NAM_PHUONG\\Redis\\RedisCache\\RedisCache\\Models\\EcommerceDbContext.cs",
+              "RelativeToolTip": "RedisCache\\Models\\EcommerceDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T04:44:28.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NAM_PHUONG\\Redis\\RedisCache\\RedisCache\\Program.cs",
+              "RelativeDocumentMoniker": "RedisCache\\Program.cs",
+              "ToolTip": "D:\\NAM_PHUONG\\Redis\\RedisCache\\RedisCache\\Program.cs",
+              "RelativeToolTip": "RedisCache\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T04:38:57.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\NAM_PHUONG\\Redis\\RedisCache\\RedisCache\\appsettings.json",
+              "RelativeDocumentMoniker": "RedisCache\\appsettings.json",
+              "ToolTip": "D:\\NAM_PHUONG\\Redis\\RedisCache\\RedisCache\\appsettings.json",
+              "RelativeToolTip": "RedisCache\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-24T04:31:36.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
